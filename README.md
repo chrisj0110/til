@@ -15,7 +15,7 @@ Today I Learned
 
 ### VsCode
 
-- [REPL driven development](vscode/repl-driven-development)
+- [REPL driven development](vscode/repl-driven-development.md)
 
 
 ## About
