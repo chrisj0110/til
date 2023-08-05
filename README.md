@@ -16,6 +16,7 @@ Today I Learned
 
 ### Python
 
+- [Pre-commit dependencies](python/pre-commit-dependencies.md)
 - [Third party vulnerability checking with pre-commit](python/pre-commit-hooks-safety.md)
 
 ### VsCode
