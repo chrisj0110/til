@@ -11,6 +11,7 @@ Today I Learned
 
 ### Git
 
+- [Cloning huge repo](git/cloning-huge-repo.md)
 - [Github keys](git/github-keys.md)
 - [Github cloning personal repo](git/clone-personal-github-repo.md)
 - [Squash commits on my branch](git/squash-commits-on-my-branch.md)
