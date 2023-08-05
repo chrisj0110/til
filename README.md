@@ -19,6 +19,7 @@ Today I Learned
 
 ### Python
 
+- [List vs tuple](python/list-vs-tuple.md)
 - [Pre-commit dependencies](python/pre-commit-dependencies.md)
 - [Run subset of tests in pytest](python/pytest-subset-of-tests.md)
 - [Third party vulnerability checking with pre-commit](python/pre-commit-hooks-safety.md)
