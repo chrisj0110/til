@@ -5,6 +5,7 @@ Today I Learned
 
 * [Git](#git)
 * [Python](#python)
+* [Vim](#vim)
 * [VSCode](#vscode)
 
 ---
@@ -25,6 +26,10 @@ Today I Learned
 ### VSCode
 
 - [REPL driven development](vscode/repl-driven-development.md)
+
+### Vim
+
+- [Dracula colorscheme](vim/dracula-colorscheme.md)
 
 
 ## About
