@@ -5,7 +5,7 @@ Today I Learned
 
 * [Git](#git)
 * [Python](#python)
-* [VsCode](#vscode)
+* [VSCode](#vscode)
 
 ---
 
@@ -22,7 +22,7 @@ Today I Learned
 - [Run subset of tests in pytest](python/pytest-subset-of-tests.md)
 - [Third party vulnerability checking with pre-commit](python/pre-commit-hooks-safety.md)
 
-### VsCode
+### VSCode
 
 - [REPL driven development](vscode/repl-driven-development.md)
 
