@@ -3,12 +3,17 @@ Today I Learned
 
 ### Categories
 
+* [GCP](#gcp)
 * [Git](#git)
 * [Python](#python)
 * [Vim](#vim)
 * [VSCode](#vscode)
 
 ---
+
+### GCP
+
+- [gsutil to get URLs from large folder](gcp/gsutil_to_get_urls.md)
 
 ### Git
 
