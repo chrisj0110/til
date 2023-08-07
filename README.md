@@ -3,6 +3,7 @@ Today I Learned
 
 ### Categories
 
+* [Bash](#bash)
 * [GCP](#gcp)
 * [Git](#git)
 * [Python](#python)
@@ -10,6 +11,10 @@ Today I Learned
 * [VSCode](#vscode)
 
 ---
+
+### Bash
+
+- [Repeat commented command from history](bash/repeat_commented_command.md)
 
 ### GCP
 
