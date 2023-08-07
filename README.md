@@ -15,6 +15,7 @@ Today I Learned
 ### Bash
 
 - [Repeat commented command from history](bash/repeat_commented_command.md)
+- [Using sed to just print a certain line of output](bash/sed_print_nth_line.md)
 
 ### GCP
 
@@ -23,8 +24,8 @@ Today I Learned
 ### Git
 
 - [Cloning huge repo](git/cloning-huge-repo.md)
-- [Github keys](git/github-keys.md)
 - [Github cloning personal repo](git/clone-personal-github-repo.md)
+- [Github keys](git/github-keys.md)
 - [Squash commits on my branch](git/squash-commits-on-my-branch.md)
 
 ### Python
