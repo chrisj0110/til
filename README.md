@@ -41,6 +41,7 @@ Today I Learned
 ### VSCode
 
 - [REPL driven development](vscode/repl-driven-development.md)
+- [Settings](vscode/settings.md)
 
 ### Vim
 
