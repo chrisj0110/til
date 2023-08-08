@@ -26,6 +26,7 @@ Today I Learned
 - [Cloning huge repo](git/cloning-huge-repo.md)
 - [Github cloning personal repo](git/clone-personal-github-repo.md)
 - [Github keys](git/github-keys.md)
+- [Precommit hooks](git/precommit-hooks.md)
 - [Squash commits on my branch](git/squash-commits-on-my-branch.md)
 
 ### Python
