@@ -34,6 +34,7 @@ Today I Learned
 - [List vs tuple](python/list-vs-tuple.md)
 - [Mypy configuration](python/mypy-config.md)
 - [Pre-commit dependencies](python/pre-commit-dependencies.md)
+- [Ruff config](python/ruff-config.md)
 - [Run subset of tests in pytest](python/pytest-subset-of-tests.md)
 - [Third party vulnerability checking with pre-commit](python/pre-commit-hooks-safety.md)
 
