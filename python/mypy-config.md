@@ -27,9 +27,30 @@ no_implicit_optional = True
 # warns about casting an expression to its inferred type.
 warn_redundant_casts = True
 
+# warns when you return Any
+warn_return_any = True
+
 # prohibit comparisons of non-overlapping types, and similar identity and container checks.
 strict_equality = True
 
 # output
 pretty = True
+```
+
+Can also configure these in VSCode settings:
+
+```json
+"python.linting.mypyEnabled": true,
+"python.linting.mypyArgs": [
+    "--no-namespace-packages",
+    "--explicit-package-bases",
+    "--ignore-missing-imports",
+    "--disallow-untyped-defs",
+    "--disallow-incomplete-defs",
+    "--no-implicit-optional",
+    "--warn-redundant-casts",
+    "--warn-return-any",
+    "--strict-equality",
+    // "--config-file=mypy.ini",  doesn't seem to work yet: https://github.com/microsoft/vscode-python/issues/6678
+],
 ```
