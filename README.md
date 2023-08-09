@@ -24,6 +24,7 @@ Today I Learned
 ### Git
 
 - [Cloning huge repo](git/cloning-huge-repo.md)
+- [Finding the root folder of the repo](git/finding-the-root-folder.md)
 - [Github cloning personal repo](git/clone-personal-github-repo.md)
 - [Github keys](git/github-keys.md)
 - [Precommit hooks](git/precommit-hooks.md)
