@@ -8,6 +8,7 @@ Today I Learned
 * [Git](#git)
 * [MySQL](#mysql)
 * [Python](#python)
+* [Splunk](#splunk)
 * [Vim](#vim)
 * [VSCode](#vscode)
 
@@ -52,6 +53,10 @@ Today I Learned
 
 - [REPL driven development](vscode/repl-driven-development.md)
 - [Settings](vscode/settings.md)
+
+### Splunk
+
+- [Subsearches](splunk/subsearches.md)
 
 ### Vim
 
