@@ -32,6 +32,7 @@ Today I Learned
 - [Github keys](git/github-keys.md)
 - [Precommit hooks](git/precommit-hooks.md)
 - [Squash commits on my branch](git/squash-commits-on-my-branch.md)
+- [Updating and switching to master](git/switching-to-updated-master.md)
 - [Viewing only files changed in a commit](git/viewing-files-changed-in-commit.md)
 
 ### MySQL
