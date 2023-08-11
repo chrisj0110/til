@@ -56,6 +56,7 @@ Today I Learned
 
 ### Splunk
 
+- [Don't show OTHER in timechart](splunk/dont-show-other-in-timechart.md)
 - [Subsearches](splunk/subsearches.md)
 
 ### Vim
