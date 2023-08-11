@@ -6,6 +6,7 @@ Today I Learned
 * [Bash](#bash)
 * [GCP](#gcp)
 * [Git](#git)
+* [MySQL](#mysql)
 * [Python](#python)
 * [Vim](#vim)
 * [VSCode](#vscode)
@@ -32,6 +33,10 @@ Today I Learned
 - [Precommit hooks](git/precommit-hooks.md)
 - [Squash commits on my branch](git/squash-commits-on-my-branch.md)
 - [Viewing only files changed in a commit](git/viewing-files-changed-in-commit.md)
+
+### MySQL
+
+- [Querying JSON columns](mysql/querying-json-columns.md)
 
 ### Python
 
