@@ -62,6 +62,7 @@ Today I Learned
 ### Vim
 
 - [Dracula colorscheme](vim/dracula-colorscheme.md)
+- [Mapping types](vim/mapping-types.md)
 
 
 ## About
