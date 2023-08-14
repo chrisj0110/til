@@ -50,6 +50,7 @@ Today I Learned
 - [Ruff config](python/ruff-config.md)
 - [Run subset of tests in pytest](python/pytest-subset-of-tests.md)
 - [Third party vulnerability checking with pre-commit](python/pre-commit-hooks-safety.md)
+- [Upgrading warnings to run-time errors](python/upgrading-warnings-to-errors.md)
 
 ### VSCode
 
