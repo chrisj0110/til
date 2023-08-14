@@ -69,7 +69,10 @@ Some settings I use:
     "vim.foldfix": true,
     "python.languageServer": "Pylance",
     "[python]": {
-        "editor.formatOnType": true
+        "editor.formatOnType": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        }
     },
     "search.exclude": {
         "**/site-packages/**": true,
