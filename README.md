@@ -18,6 +18,7 @@ Today I Learned
 
 - [Repeat commented command from history](bash/repeat_commented_command.md)
 - [Reversing output](bash/reversing-output.md)
+- [Setting environment variable for just one command](bash/setting-env-var-for-one-command.md)
 - [Sorting output](bash/sorting-output.md)
 - [Using sed to just print a certain line of output](bash/sed_print_nth_line.md)
 
