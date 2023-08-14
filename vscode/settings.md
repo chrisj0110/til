@@ -72,8 +72,14 @@ Some settings I use:
         "editor.formatOnType": true,
         "editor.codeActionsOnSave": {
             "source.organizeImports": true
-        }
+        },
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true,
     },
+    "black-formatter.args": [
+        "--line-length",
+        "160"
+    ],
     "search.exclude": {
         "**/site-packages/**": true,
     },
