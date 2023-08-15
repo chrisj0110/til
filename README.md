@@ -69,6 +69,7 @@ Today I Learned
 
 - [Dracula colorscheme](vim/dracula-colorscheme.md)
 - [Mapping types](vim/mapping-types.md)
+- [Reload syntax highlighting](vim/reload-sintax-highlighting.md)
 
 
 ## About
