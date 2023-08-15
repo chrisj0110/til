@@ -16,6 +16,7 @@ Today I Learned
 
 ### Bash
 
+- [Grep without regex](bash/grep-without-regex.md)
 - [Repeat commented command from history](bash/repeat_commented_command.md)
 - [Reversing output](bash/reversing-output.md)
 - [Setting environment variable for just one command](bash/setting-env-var-for-one-command.md)
@@ -47,6 +48,7 @@ Today I Learned
 
 - [List vs tuple](python/list-vs-tuple.md)
 - [Mypy configuration](python/mypy-config.md)
+- [Pip list available versions](python/pip-list-versions.md)
 - [Pre-commit dependencies](python/pre-commit-dependencies.md)
 - [Ruff config](python/ruff-config.md)
 - [Run subset of tests in pytest](python/pytest-subset-of-tests.md)
