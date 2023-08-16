@@ -18,5 +18,11 @@ def test_trivial_one_off_scenario()
 Then you can run the 2 `regression` tests with -m:
 
 ```bash
-py -m pytest -m 'regression' test_suite.py
+pytest -m 'regression' test_suite.py
+```
+
+To test everything in the file except the regression cases:
+
+```bash
+pytest -m 'not regression' test_suite.py
 ```
