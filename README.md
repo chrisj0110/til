@@ -22,6 +22,7 @@ Today I Learned
 - [Setting environment variable for just one command](bash/setting-env-var-for-one-command.md)
 - [Sorting output](bash/sorting-output.md)
 - [Using sed to just print a certain line of output](bash/sed_print_nth_line.md)
+- [Watch command](bash/watch_command.md)
 
 ### GCP
 
