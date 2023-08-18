@@ -65,6 +65,7 @@ Today I Learned
 ### Splunk
 
 - [Don't show OTHER in timechart](splunk/dont-show-other-in-timechart.md)
+- [Searching same time period last week](splunk/same-time-last-week.md)
 - [Subsearches](splunk/subsearches.md)
 
 ### Vim
