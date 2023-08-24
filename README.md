@@ -55,6 +55,7 @@ Today I Learned
 - [Requests response.raise_for_status()](python/requests-raise-for-status.md)
 - [Ruff config](python/ruff-config.md)
 - [Run subset of tests in pytest](python/pytest-subset-of-tests.md)
+- [Showing stdout in pytest](python/stdout-in-pytest.md)
 - [Third party vulnerability checking with pre-commit](python/pre-commit-hooks-safety.md)
 - [Upgrading warnings to run-time errors](python/upgrading-warnings-to-errors.md)
 
