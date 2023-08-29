@@ -58,6 +58,7 @@ Today I Learned
 - [Showing stdout in pytest](python/stdout-in-pytest.md)
 - [Third party vulnerability checking with pre-commit](python/pre-commit-hooks-safety.md)
 - [Upgrading warnings to run-time errors](python/upgrading-warnings-to-errors.md)
+- [Using Annotated in typer](python/using-annotated-in-typer.md)
 
 ### VSCode
 
