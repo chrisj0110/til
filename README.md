@@ -23,6 +23,7 @@ Today I Learned
 - [Sorting output](bash/sorting-output.md)
 - [Using sed to just print a certain line of output](bash/sed_print_nth_line.md)
 - [Watch command](bash/watch_command.md)
+- [Xargs](bash/xargs.md)
 
 ### GCP
 
