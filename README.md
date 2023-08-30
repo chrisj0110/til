@@ -58,8 +58,10 @@ Today I Learned
 - [Run subset of tests in pytest](python/pytest-subset-of-tests.md)
 - [Showing stdout in pytest](python/stdout-in-pytest.md)
 - [Third party vulnerability checking with pre-commit](python/pre-commit-hooks-safety.md)
+- [Timeit to measure performance](python/timeit.md)
 - [Upgrading warnings to run-time errors](python/upgrading-warnings-to-errors.md)
 - [Using Annotated in typer](python/using-annotated-in-typer.md)
+- [Using sets for in checks](python/using-sets-for-in-checks.md)
 
 ### VSCode
 
