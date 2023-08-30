@@ -53,6 +53,7 @@ Today I Learned
 - [Pre-commit dependencies](python/pre-commit-dependencies.md)
 - [Pretty print json using python](python/pretty-print-json.md)
 - [Requests response.raise_for_status()](python/requests-raise-for-status.md)
+- [Rich-cli package](python/rich-cli.md)
 - [Ruff config](python/ruff-config.md)
 - [Run subset of tests in pytest](python/pytest-subset-of-tests.md)
 - [Showing stdout in pytest](python/stdout-in-pytest.md)
