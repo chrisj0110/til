@@ -49,6 +49,7 @@ Today I Learned
 
 ### Neovim
 
+- [keyboard mappings](neovim/keyboard-mappings.md)
 - [windows setup](neovim/windows-setup.md)
 
 ### Python
