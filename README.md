@@ -66,6 +66,7 @@ Today I Learned
 
 ### VSCode
 
+- [list extensions](vscode/list-extensions.md)
 - [repo driven development](vscode/repl-driven-development.md)
 - [settings](vscode/settings.md)
 
