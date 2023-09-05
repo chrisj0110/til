@@ -7,6 +7,7 @@ Today I Learned
 * [GCP](#gcp)
 * [Git](#git)
 * [MySQL](#mysql)
+* [Neovim](#neovim)
 * [Python](#python)
 * [Splunk](#splunk)
 * [Vim](#vim)
@@ -45,6 +46,10 @@ Today I Learned
 ### MySQL
 
 - [querying JSON columns](mysql/querying-json-columns.md)
+
+### Neovim
+
+- [windows setup](neovim/windows-setup.md)
 
 ### Python
 
