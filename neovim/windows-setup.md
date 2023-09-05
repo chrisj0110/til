@@ -24,9 +24,11 @@ To setup [dracula](https://github.com/Mofiqul/dracula.nvim) theme, add this to `
 "Mofiqul/dracula.nvim",
 ```
 
-And set it with:
+..and set it with:
 
 ```
 colorscheme dracula
 ```
+
+[Video](https://www.youtube.com/watch?v=4BnVeOUeZxc) to try to setup python tools.
 
