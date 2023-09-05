@@ -4,6 +4,19 @@ Some settings I use:
 
 ```json
 {
+    // performance
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.mypy_cache": true,
+        "**/.pytest_cache": true,
+    },
+    "search.exclude": {
+        "**/site-packages/**": true,
+    },
+    "editor.minimap.enabled": false,
+    "search.searchOnType": false,
+    "editor.codeLens": false,
+
     "editor.minimap.renderCharacters": false, // https://www.reddit.com/r/vscode/comments/hrorvc/tip_disable_editorminimaprendercharacters/
     "editor.acceptSuggestionOnEnter": "off", // https://www.reddit.com/r/vscode/comments/ayvd0p/how_to_stop_autocomplete_with_enter/
     "editor.snippetSuggestions": "inline", // https://stackoverflow.com/a/42107910/59867 https://code.visualstudio.com/docs/editor/intellisense#_customizing-intellisense
