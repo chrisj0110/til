@@ -77,6 +77,7 @@ Today I Learned
 
 ### Vim
 
+- [copy to system clipboard](vim/copy-to-system-clipboard.md)
 - [dracula colorscheme](vim/dracula-colorscheme.md)
 - [mapping types](vim/mapping-types.md)
 - [reload syntax highlighting](vim/reload-sintax-highlighting.md)
