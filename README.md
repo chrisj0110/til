@@ -67,6 +67,7 @@ Today I Learned
 
 ### Salesforce
 
+- [handling max offset](salesforce/handling-max-offset.md)
 - [query using relationships](salesforce/query-using-relationships.md)
 
 ### VSCode
