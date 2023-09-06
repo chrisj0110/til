@@ -7,8 +7,8 @@ Today I Learned
 * [GCP](#gcp)
 * [Git](#git)
 * [MySQL](#mysql)
-* [Neovim](#neovim)
 * [Python](#python)
+* [Salesforce](#salesforce)
 * [Splunk](#splunk)
 * [Vim](#vim)
 * [VSCode](#vscode)
@@ -47,11 +47,6 @@ Today I Learned
 
 - [querying JSON columns](mysql/querying-json-columns.md)
 
-### Neovim
-
-- [keyboard mappings](neovim/keyboard-mappings.md)
-- [windows setup](neovim/windows-setup.md)
-
 ### Python
 
 - [list vs tuple](python/list-vs-tuple.md)
@@ -69,6 +64,10 @@ Today I Learned
 - [upgrading warnings to run-time errors](python/upgrading-warnings-to-errors.md)
 - [using Annotated in typer](python/using-annotated-in-typer.md)
 - [using sets for in checks](python/using-sets-for-in-checks.md)
+
+### Salesforce
+
+- [query using relationships](salesforce/query-using-relationships.md)
 
 ### VSCode
 
