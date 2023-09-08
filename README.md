@@ -89,6 +89,7 @@ Today I Learned
 - [ale plugin](vim/ale-plugin.md)
 - [copy to system clipboard](vim/copy-to-system-clipboard.md)
 - [dracula colorscheme](vim/dracula-colorscheme.md)
+- [finding and opening file](vim/finding-and-opening-file.md)
 - [linediff plugin](vim/linediff-plugin.md)
 - [mapping types](vim/mapping-types.md)
 - [nerdtree plugin](vim/nerdtree.md)
