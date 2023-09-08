@@ -86,6 +86,7 @@ Today I Learned
 
 ### Vim
 
+- [ale plugin](vim/ale-plugin.md)
 - [copy to system clipboard](vim/copy-to-system-clipboard.md)
 - [dracula colorscheme](vim/dracula-colorscheme.md)
 - [linediff plugin](vim/linediff-plugin.md)
