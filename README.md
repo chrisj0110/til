@@ -87,6 +87,7 @@ Today I Learned
 - [copy to system clipboard](vim/copy-to-system-clipboard.md)
 - [dracula colorscheme](vim/dracula-colorscheme.md)
 - [mapping types](vim/mapping-types.md)
+- [nerdtree plugin](vim/nerdtree.md)
 - [reload syntax highlighting](vim/reload-sintax-highlighting.md)
 - [vim-airline plugin](vim/vim-airline-plugin.md)
 - [vim-surround plugin](vim/vim-surround-plugin.md)
