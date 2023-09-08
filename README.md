@@ -87,6 +87,7 @@ Today I Learned
 ### Vim
 
 - [ale plugin](vim/ale-plugin.md)
+- [buffers vs windows](vim/buffers-vs-windows.md)
 - [copy to system clipboard](vim/copy-to-system-clipboard.md)
 - [dracula colorscheme](vim/dracula-colorscheme.md)
 - [finding and opening file](vim/finding-and-opening-file.md)
