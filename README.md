@@ -95,6 +95,7 @@ Today I Learned
 - [mapping types](vim/mapping-types.md)
 - [nerdtree plugin](vim/nerdtree.md)
 - [reload syntax highlighting](vim/reload-sintax-highlighting.md)
+- [repeat last command](vim/repeat-last-command.md)
 - [vim-airline plugin](vim/vim-airline-plugin.md)
 - [vim-surround plugin](vim/vim-surround-plugin.md)
 
