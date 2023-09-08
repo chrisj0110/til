@@ -12,6 +12,7 @@ Today I Learned
 * [Splunk](#splunk)
 * [Vim](#vim)
 * [VSCode](#vscode)
+* [Windows Terminal](#windows-terminal)
 
 ---
 
@@ -91,6 +92,10 @@ Today I Learned
 - [reload syntax highlighting](vim/reload-sintax-highlighting.md)
 - [vim-airline plugin](vim/vim-airline-plugin.md)
 - [vim-surround plugin](vim/vim-surround-plugin.md)
+
+### Windows Terminal
+
+- [keyboard shortcuts](windows-terminal/keyboard-shortcuts.md)
 
 
 ## About
