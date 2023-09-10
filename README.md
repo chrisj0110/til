@@ -98,6 +98,7 @@ Today I Learned
 - [repeat last command](vim/repeat-last-command.md)
 - [vim-airline plugin](vim/vim-airline-plugin.md)
 - [vim-surround plugin](vim/vim-surround-plugin.md)
+- [visual block](vim/visual-block.md)
 
 ### Windows Terminal
 
