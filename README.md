@@ -63,6 +63,7 @@ Today I Learned
 - [showing stdout in pytest](python/stdout-in-pytest.md)
 - [third party vulnerability checking with pre-commit](python/pre-commit-hooks-safety.md)
 - [timeit to measure performance](python/timeit.md)
+- [typing.Literal](python/typing-literal.md)
 - [upgrading warnings to run-time errors](python/upgrading-warnings-to-errors.md)
 - [using Annotated in typer](python/using-annotated-in-typer.md)
 - [using sets for in checks](python/using-sets-for-in-checks.md)
