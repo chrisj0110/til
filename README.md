@@ -93,6 +93,7 @@ Today I Learned
 - [finding and opening file](vim/finding-and-opening-file.md)
 - [folding](vim/folding.md)
 - [indenting](vim/indenting.md)
+- [jump to area of screen](vim/jump-to-area-of-screen.md)
 - [linediff plugin](vim/linediff-plugin.md)
 - [mapping types](vim/mapping-types.md)
 - [nerdtree plugin](vim/nerdtree.md)
