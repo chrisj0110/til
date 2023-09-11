@@ -92,6 +92,7 @@ Today I Learned
 - [dracula colorscheme](vim/dracula-colorscheme.md)
 - [finding and opening file](vim/finding-and-opening-file.md)
 - [folding](vim/folding.md)
+- [indenting](vim/indenting.md)
 - [linediff plugin](vim/linediff-plugin.md)
 - [mapping types](vim/mapping-types.md)
 - [nerdtree plugin](vim/nerdtree.md)
