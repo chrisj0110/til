@@ -95,6 +95,7 @@ Today I Learned
 - [folding](vim/folding.md)
 - [indenting](vim/indenting.md)
 - [jump to area of screen](vim/jump-to-area-of-screen.md)
+- [jump to start and end of visual selection](vim/jump-to-start-and-end-of-visual-selection.md)
 - [jump list](vim/jump-list.md)
 - [linediff plugin](vim/linediff-plugin.md)
 - [mapping types](vim/mapping-types.md)
