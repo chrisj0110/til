@@ -91,6 +91,7 @@ Today I Learned
 - [copy to system clipboard](vim/copy-to-system-clipboard.md)
 - [dracula colorscheme](vim/dracula-colorscheme.md)
 - [finding and opening file](vim/finding-and-opening-file.md)
+- [folding](vim/folding.md)
 - [linediff plugin](vim/linediff-plugin.md)
 - [mapping types](vim/mapping-types.md)
 - [nerdtree plugin](vim/nerdtree.md)
