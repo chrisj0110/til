@@ -110,6 +110,7 @@ Today I Learned
 
 ### Windows Terminal
 
+- [close pane](windows-terminal/close-pane.md)
 - [keyboard shortcuts](windows-terminal/keyboard-shortcuts.md)
 
 
