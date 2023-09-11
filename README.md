@@ -18,6 +18,7 @@ Today I Learned
 
 ### Bash
 
+- [fzf](bash/fzf.md)
 - [grep without regex](bash/grep-without-regex.md)
 - [repeat commented command from history](bash/repeat_commented_command.md)
 - [reversing output](bash/reversing-output.md)
