@@ -41,6 +41,7 @@ Today I Learned
 - [finding the root folder of the repo](git/finding-the-root-folder.md)
 - [github cloning personal repo](git/clone-personal-github-repo.md)
 - [github keys](git/github-keys.md)
+- [patch mode](git/patch-mode.md)
 - [precommit hooks](git/precommit-hooks.md)
 - [squash commits on my branch](git/squash-commits-on-my-branch.md)
 - [updating and switching to master](git/switching-to-updated-master.md)
