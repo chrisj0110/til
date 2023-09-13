@@ -36,6 +36,7 @@ Today I Learned
 ### Git
 
 - [cloning huge repo](git/cloning-huge-repo.md)
+- [creating pull request in browser](git/creating-pull-request-in-browser.md)
 - [diff between two branches](git/diff-branches.md)
 - [finding the root folder of the repo](git/finding-the-root-folder.md)
 - [github cloning personal repo](git/clone-personal-github-repo.md)
