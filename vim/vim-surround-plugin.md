@@ -12,3 +12,5 @@ with the word `test` in a visual block, then command `S"`, to end up with:
 "test"
 ```
 
+then with cursor inside the quotes above you can do `cs"'` to change it to single quotes.
+
