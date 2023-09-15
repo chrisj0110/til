@@ -111,6 +111,7 @@ Today I Learned
 - [repeat last command](vim/repeat-last-command.md)
 - [search with visual selection](vim/search-with-visual-selection.md)
 - [vim-airline plugin](vim/vim-airline-plugin.md)
+- [vim-fugitive plugin](vim/vim-fugitive-plugin.md)
 - [vim-surround plugin](vim/vim-surround-plugin.md)
 - [visual block](vim/visual-block.md)
 
