@@ -92,6 +92,7 @@ Today I Learned
 ### Vim
 
 - [ale plugin](vim/ale-plugin.md)
+- [autocomplete](vim/autocomplete.md)
 - [buffers vs windows](vim/buffers-vs-windows.md)
 - [change list](vim/change-list.md)
 - [copy to system clipboard](vim/copy-to-system-clipboard.md)
