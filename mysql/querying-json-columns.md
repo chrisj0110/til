@@ -37,3 +37,16 @@ MySQL> select JSON_UNQUOTE(JSON_EXTRACT(`my_column`, '$.data')) from my_table;
 | <null>                                                      |
 +-------------------------------------------------------------+
 ```
+
+If you want to get a count from a list you can use `JSON_LENGTH`:
+
+```
+MySQL> select JSON_LENGTH(JSON_EXTRACT(`my_column`, '$.data')) from my_table;
++--------------------------------------------+
+| JSON_EXTRACT(`my_column`, '$.data')        |
++--------------------------------------------+
+| 1                                          |
+| 0                                          |
++--------------------------------------------+
+```
+
