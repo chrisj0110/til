@@ -19,6 +19,7 @@ Today I Learned
 ### Bash
 
 - [ackrc](bash/ackrc.md)
+- [clipboard in windows git bash](bash/clipboard-in-windows-git-bash.md)
 - [fzf](bash/fzf.md)
 - [grep without regex](bash/grep-without-regex.md)
 - [repeat commented command from history](bash/repeat_commented_command.md)
@@ -26,6 +27,7 @@ Today I Learned
 - [setting environment variable for just one command](bash/setting-env-var-for-one-command.md)
 - [sorting output](bash/sorting-output.md)
 - [using sed to just print a certain line of output](bash/sed_print_nth_line.md)
+- [using tr to modify text](bash/tr-to-modify-text.md)
 - [watch command](bash/watch_command.md)
 - [xargs](bash/xargs.md)
 
