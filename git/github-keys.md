@@ -7,7 +7,11 @@ eval `ssh-agent`  # make sure this is running
 ```
 
 ```bash
-ssh-keygen -t ed25519 -C "45946825+chrisj0110@users.noreply.github.com"
+export GITHUB_EMAIL=""  # get your github.com email from https://github.com/settings/emails and put it here
+```
+
+```bash
+ssh-keygen -t ed25519 -C "$GITHUB_EMAIL"
 ssh-add ~/.ssh/id_ed25519ssh-add ~/.ssh/
 cat ~/.ssh/id_ed25519.pub  # copy the result to the clipboard
 ```
