@@ -25,6 +25,7 @@ Today I Learned
 - [repeat commented command from history](bash/repeat_commented_command.md)
 - [reversing output](bash/reversing-output.md)
 - [setting environment variable for just one command](bash/setting-env-var-for-one-command.md)
+- [show terminal colors](bash/show-terminal-colors.md)
 - [sorting output](bash/sorting-output.md)
 - [using sed to just print a certain line of output](bash/sed_print_nth_line.md)
 - [using tr to modify text](bash/tr-to-modify-text.md)
