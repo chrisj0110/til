@@ -99,6 +99,7 @@ Today I Learned
 - [buffers vs windows](vim/buffers-vs-windows.md)
 - [change list](vim/change-list.md)
 - [copy to system clipboard](vim/copy-to-system-clipboard.md)
+- [ctags](vim/ctags.md)
 - [dracula colorscheme](vim/dracula-colorscheme.md)
 - [finding and opening file](vim/finding-and-opening-file.md)
 - [folding](vim/folding.md)
