@@ -104,6 +104,7 @@ Today I Learned
 - [folding](vim/folding.md)
 - [grep](vim/grep.md)
 - [indenting](vim/indenting.md)
+- [last insert](vim/last-insert.md)
 - [jump to area of screen](vim/jump-to-area-of-screen.md)
 - [jump to start and end of visual selection](vim/jump-to-start-and-end-of-visual-selection.md)
 - [jump list](vim/jump-list.md)
