@@ -48,6 +48,7 @@ Today I Learned
 - [patch mode](git/patch-mode.md)
 - [precommit hooks](git/precommit-hooks.md)
 - [squash commits on my branch](git/squash-commits-on-my-branch.md)
+- [stashing files](git/stashing-files.md)
 - [updating and switching to master](git/switching-to-updated-master.md)
 - [viewing only files changed in a commit](git/viewing-files-changed-in-commit.md)
 
