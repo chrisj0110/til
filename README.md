@@ -104,6 +104,7 @@ Today I Learned
 - [finding and opening file](vim/finding-and-opening-file.md)
 - [folding](vim/folding.md)
 - [grep](vim/grep.md)
+- [incrementing numbers](vim/incrementing-numbers.md)
 - [indenting](vim/indenting.md)
 - [last insert](vim/last-insert.md)
 - [jump to area of screen](vim/jump-to-area-of-screen.md)
