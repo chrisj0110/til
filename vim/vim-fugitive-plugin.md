@@ -18,5 +18,8 @@ https://github.com/tpope/vim-fugitive
 - `:G log` - git log
     - `o` - see the diff of the commit
 
+- `:G blame` - git blame
+    - `<CR>` on the commit to see the change. `<ctrl-o>` to go back.
+
 - `:Gedit branchname:file.txt` - open file.txt from branchname
 
