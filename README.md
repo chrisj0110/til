@@ -9,6 +9,7 @@ Today I Learned
 * [MySQL](#mysql)
 * [Python](#python)
 * [Salesforce](#salesforce)
+* [Selenium](#selenium)
 * [Splunk](#splunk)
 * [Vim](#vim)
 * [VSCode](#vscode)
@@ -79,6 +80,10 @@ Today I Learned
 
 - [handling max offset](salesforce/handling-max-offset.md)
 - [query using relationships](salesforce/query-using-relationships.md)
+
+### Selenium
+
+- [finding inputs like labels in playwright](selenium/finding-inputs-like-labels-in-playwright.md)
 
 ### VSCode
 
