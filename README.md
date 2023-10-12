@@ -95,6 +95,7 @@ Today I Learned
 
 - [don't show OTHER in timechart](splunk/dont-show-other-in-timechart.md)
 - [exclude events which have a certain field](splunk/exclude-events-with-field.md)
+- [null and coalesce](splunk/null-and-coalesce.md)
 - [searching same time period last week](splunk/same-time-last-week.md)
 - [subsearches](splunk/subsearches.md)
 
