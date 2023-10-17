@@ -7,6 +7,7 @@ https://github.com/tpope/vim-fugitive
     - `u` - unstage
     - `=` - inline diff
     - `dv` - diff vertical
+    - `X` - restore
     - `cc` - commit
 
 - `:Gvdiffsplit` - git diff
