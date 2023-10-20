@@ -36,6 +36,7 @@ Today I Learned
 ### GCP
 
 - [gcloud compute instances list](gcp/gcloud-compute-instances-list.md)
+- [gcloud multiple accounts](gcp/gcloud-multiple-accounts.md)
 - [gsutil to get URLs from large folder](gcp/gsutil_to_get_urls.md)
 
 ### Git
