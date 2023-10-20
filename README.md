@@ -23,21 +23,21 @@ Today I Learned
 - [clipboard in windows git bash](bash/clipboard-in-windows-git-bash.md)
 - [fzf](bash/fzf.md)
 - [grep without regex](bash/grep-without-regex.md)
-- [repeat commented command from history](bash/repeat_commented_command.md)
+- [repeat commented command from history](bash/repeat-commented-command.md)
 - [reversing output](bash/reversing-output.md)
 - [setting environment variable for just one command](bash/setting-env-var-for-one-command.md)
 - [show terminal colors](bash/show-terminal-colors.md)
 - [sorting output](bash/sorting-output.md)
-- [using sed to just print a certain line of output](bash/sed_print_nth_line.md)
+- [using sed to just print a certain line of output](bash/sed-print-nth-line.md)
 - [using tr to modify text](bash/tr-to-modify-text.md)
-- [watch command](bash/watch_command.md)
+- [watch command](bash/watch-command.md)
 - [xargs](bash/xargs.md)
 
 ### GCP
 
 - [gcloud compute instances list](gcp/gcloud-compute-instances-list.md)
 - [gcloud multiple accounts](gcp/gcloud-multiple-accounts.md)
-- [gsutil to get URLs from large folder](gcp/gsutil_to_get_urls.md)
+- [gsutil to get URLs from large folder](gcp/gsutil-to-get-urls.md)
 
 ### Git
 
