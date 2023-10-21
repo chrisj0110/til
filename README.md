@@ -44,6 +44,7 @@ Today I Learned
 ### Git
 
 - [cloning huge repo](git/cloning-huge-repo.md)
+- [config](git/config.md)
 - [creating pull request in browser](git/creating-pull-request-in-browser.md)
 - [diff between two branches](git/diff-branches.md)
 - [finding the root folder of the repo](git/finding-the-root-folder.md)
@@ -51,6 +52,7 @@ Today I Learned
 - [github keys](git/github-keys.md)
 - [patch mode](git/patch-mode.md)
 - [precommit hooks](git/precommit-hooks.md)
+- [pull merge config](git/pull-merge-config.md)
 - [squash commits on my branch](git/squash-commits-on-my-branch.md)
 - [stashing files](git/stashing-files.md)
 - [updating and switching to master](git/switching-to-updated-master.md)
