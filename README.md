@@ -21,6 +21,7 @@ Today I Learned
 
 - [ackrc](bash/ackrc.md)
 - [clipboard in windows git bash](bash/clipboard-in-windows-git-bash.md)
+- [dos2unix alternative for line endings](bash/dos2unix-alternative.md)
 - [fzf](bash/fzf.md)
 - [grep without regex](bash/grep-without-regex.md)
 - [repeat commented command from history](bash/repeat-commented-command.md)
