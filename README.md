@@ -20,6 +20,7 @@ Today I Learned
 ### Bash
 
 - [ackrc](bash/ackrc.md)
+- [cd to previous directory](bash/cd-to-previous-directory.md)
 - [clipboard in windows git bash](bash/clipboard-in-windows-git-bash.md)
 - [dos2unix alternative for line endings](bash/dos2unix-alternative.md)
 - [fzf](bash/fzf.md)
