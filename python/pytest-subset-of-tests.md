@@ -1,5 +1,7 @@
 # Run subset of tests in pytest
 
+For all of the following, you can first output what it plans to run without running tests, using `--setup-plan`
+
 You can mark a test function:
 
 ```python
@@ -27,9 +29,13 @@ To test everything in the file except the regression cases:
 pytest -m 'not regression' test_suite.py
 ```
 
-You can use `-k` to select function(s):
+You can use `-k` to select function(s) and class(es):
 
 ```bash
 pytest -k 'test_function1 or test_function2' test_suite.py
+```
+
+```bash
+pytest -k 'test_function1 and ClassName1' test_suite.py
 ```
 
