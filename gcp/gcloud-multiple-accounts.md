@@ -16,5 +16,3 @@ gcloud config set functions/region <region>
 
 Activate configuration: `gcloud config configurations activate <configuration-name>`
 
-Run a gcloud command under a different account: `<gcloud command> --account=<account-name> --project=<project>`
-
