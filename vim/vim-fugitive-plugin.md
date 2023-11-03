@@ -22,5 +22,7 @@ https://github.com/tpope/vim-fugitive
 - `:G blame` - git blame
     - `<CR>` on the commit to see the change. `<ctrl-o>` to go back.
 
+- `:G push` - git push
+
 - `:Gedit branchname:file.txt` - open file.txt from branchname
 
