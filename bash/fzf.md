@@ -6,6 +6,7 @@ notes:
 
 - `**<tab>` to find files, or just `ctrl-t`
 - `| fzf` - pipe some output to fzf to select value(s)
+  - `| fzf --multi` to select multiple values
 - `ctrl-j` and `ctrl-k` to move cursor up and down
 - `|` is an or operator
 - `tab` and `shift-tab` to select/unselect multiple items
