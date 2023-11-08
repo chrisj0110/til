@@ -51,6 +51,7 @@ Today I Learned
 - [finding the root folder of the repo](git/finding-the-root-folder.md)
 - [github cloning personal repo](git/clone-personal-github-repo.md)
 - [github keys](git/github-keys.md)
+- [log for given function](git/log-for-given-function.md)
 - [patch mode](git/patch-mode.md)
 - [precommit hooks](git/precommit-hooks.md)
 - [pull merge config](git/pull-merge-config.md)
