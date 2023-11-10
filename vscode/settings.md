@@ -104,5 +104,10 @@ Some settings I use:
     "jupyter.experiments.enabled": false,
     "jupyter.interactiveWindow.creationMode": "single",
     "jupyter.interactiveWindow.viewColumn": "active",
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.rightClickBehavior": "paste",
+    "terminal.integrated.commandsToSkipShell": [
+        "workbench.action.toggleSidebarVisibility",
+    ],
 }
 ```
