@@ -8,6 +8,7 @@ Today I Learned
 * [Git](#git)
 * [MySQL](#mysql)
 * [Python](#python)
+* [REST](#rest)
 * [Salesforce](#salesforce)
 * [Selenium](#selenium)
 * [Splunk](#splunk)
@@ -83,6 +84,9 @@ Today I Learned
 - [upgrading warnings to run-time errors](python/upgrading-warnings-to-errors.md)
 - [using Annotated in typer](python/using-annotated-in-typer.md)
 - [using sets for in checks](python/using-sets-for-in-checks.md)
+
+### REST
+- [do's and dont's](rest/dos-and-donts.md)
 
 ### Salesforce
 
