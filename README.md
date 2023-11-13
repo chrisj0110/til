@@ -136,6 +136,7 @@ Today I Learned
 - [reload syntax highlighting](vim/reload-sintax-highlighting.md)
 - [repeat last command](vim/repeat-last-command.md)
 - [search with visual selection](vim/search-with-visual-selection.md)
+- [spell check](vim/spell-check.md)
 - [switch to last buffer](vim/switch-to-last-buffer.md)
 - [vim-airline plugin](vim/vim-airline-plugin.md)
 - [vim-fugitive plugin](vim/vim-fugitive-plugin.md)
