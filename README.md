@@ -69,6 +69,7 @@ Today I Learned
 ### Python
 
 - [beautifulsoup](python/beautifulsoup.md)
+- [dataclass equality](python/dataclass-equality.md)
 - [list vs tuple](python/list-vs-tuple.md)
 - [mypy configuration](python/mypy-config.md)
 - [pip list available versions](python/pip-list-versions.md)
