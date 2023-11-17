@@ -24,6 +24,7 @@ Today I Learned
 - [cd to previous directory](bash/cd-to-previous-directory.md)
 - [clipboard in windows git bash](bash/clipboard-in-windows-git-bash.md)
 - [dos2unix alternative for line endings](bash/dos2unix-alternative.md)
+- [fixing characters appended to pasted value](bash/fixing-characters-appended-to-pasted-value.md)
 - [fzf](bash/fzf.md)
 - [grep without regex](bash/grep-without-regex.md)
 - [repeat commented command from history](bash/repeat-commented-command.md)
