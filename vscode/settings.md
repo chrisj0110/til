@@ -109,5 +109,6 @@ Some settings I use:
     "terminal.integrated.commandsToSkipShell": [
         "workbench.action.toggleSidebarVisibility",
     ],
+    "terminal.integrated.allowChords": false, // https://superuser.com/a/1784306/1402
 }
 ```
