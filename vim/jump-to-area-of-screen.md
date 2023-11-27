@@ -6,5 +6,5 @@ M: jump to middle of screen (mnemonic: "middle")
 L: jump to bottom of screen (mnemonic: "low")
 ```
 
-copied from [here](https://wincent.com/wiki/Vim_cheatsheet)
+copied from [here](https://wincent.com/wiki/Vim_cheatsheet). Also mentioned [here](https://codeinthehole.com/tips/vim-lists/).
 
