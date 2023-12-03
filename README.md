@@ -43,6 +43,7 @@ Today I Learned
 - [gcloud multiple accounts](gcp/gcloud-multiple-accounts.md)
 - [gcloud to publish cloud function](gcp/gcloud-cloud-function.md)
 - [gsutil to get URLs from large folder](gcp/gsutil-to-get-urls.md)
+- [ssh to new VM using keys](gcp/ssh-to-new-vm.md)
 
 ### Git
 
