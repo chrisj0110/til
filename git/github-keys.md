@@ -12,7 +12,7 @@ export GITHUB_EMAIL=""  # get your github.com email from https://github.com/sett
 
 ```bash
 ssh-keygen -t ed25519 -C "$GITHUB_EMAIL"
-ssh-add ~/.ssh/id_ed25519ssh-add ~/.ssh/
+ssh-add ~/.ssh/id_ed25519
 cat ~/.ssh/id_ed25519.pub  # copy the result to the clipboard
 ```
 
