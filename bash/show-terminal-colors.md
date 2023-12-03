@@ -24,3 +24,5 @@ Note to self, [dracula color codes](https://github.com/dracula/dracula-theme) ma
 - Red ff5555 => 203
 - Yellow fafa8c => 228
 
+(Dracula pro color codes are in my vimrc.)
+
