@@ -26,6 +26,7 @@ Today I Learned
 - [dos2unix alternative for line endings](bash/dos2unix-alternative.md)
 - [fixing characters appended to pasted value](bash/fixing-characters-appended-to-pasted-value.md)
 - [fzf](bash/fzf.md)
+- [fzf and ripgrep](bash/fzf-and-ripgrep.md)
 - [grep without regex](bash/grep-without-regex.md)
 - [repeat commented command from history](bash/repeat-commented-command.md)
 - [reversing output](bash/reversing-output.md)
