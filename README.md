@@ -14,7 +14,6 @@ Today I Learned
 * [Splunk](#splunk)
 * [Vim](#vim)
 * [VSCode](#vscode)
-* [Windows Terminal](#windows-terminal)
 
 ---
 
@@ -148,11 +147,6 @@ Today I Learned
 - [vim-fugitive plugin](vim/vim-fugitive-plugin.md)
 - [vim-surround plugin](vim/vim-surround-plugin.md)
 - [visual block](vim/visual-block.md)
-
-### Windows Terminal
-
-- [close pane](windows-terminal/close-pane.md)
-- [keyboard shortcuts](windows-terminal/keyboard-shortcuts.md)
 
 
 ## About
