@@ -137,6 +137,7 @@ Today I Learned
 - [linediff plugin](vim/linediff-plugin.md)
 - [mapping types](vim/mapping-types.md)
 - [nerdtree plugin](vim/nerdtree.md)
+- [pass a command from the command line](vim/pass-command-from-command-line.md)
 - [quicklist](vim/quicklist.md)
 - [reload syntax highlighting](vim/reload-sintax-highlighting.md)
 - [repeat last command](vim/repeat-last-command.md)
