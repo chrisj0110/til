@@ -39,6 +39,7 @@ Today I Learned
 
 ### GCP
 
+- [deleting old app engine versions](gcp/delete-old-app-ending-versions.md)
 - [gcloud compute instances list](gcp/gcloud-compute-instances-list.md)
 - [gcloud multiple accounts](gcp/gcloud-multiple-accounts.md)
 - [gcloud to publish cloud function](gcp/gcloud-cloud-function.md)
