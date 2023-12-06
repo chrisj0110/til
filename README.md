@@ -7,6 +7,7 @@ Today I Learned
 * [GCP](#gcp)
 * [Git](#git)
 * [MySQL](#mysql)
+* [Playwright](#playwright)
 * [Python](#python)
 * [REST](#rest)
 * [Salesforce](#salesforce)
@@ -68,6 +69,12 @@ Today I Learned
 ### MySQL
 
 - [querying JSON columns](mysql/querying-json-columns.md)
+
+### Playwright
+
+- [finding a cell with exact text match](playwright/finding-cell-with-exact-text-match.md)
+- [finding parent element](playwright/finding-parent-element.md)
+- [record a script](playwright/record-a-script.md)
 
 ### Python
 
