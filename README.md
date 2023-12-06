@@ -48,6 +48,7 @@ Today I Learned
 
 ### Git
 
+- [cherry picking multiple commits](git/cherry-picking-multiple-commits.md)
 - [cloning huge repo](git/cloning-huge-repo.md)
 - [config](git/config.md)
 - [creating pull request in browser](git/creating-pull-request-in-browser.md)
