@@ -74,7 +74,6 @@ Today I Learned
 
 - [finding a cell with exact text match](playwright/finding-cell-with-exact-text-match.md)
 - [finding parent element](playwright/finding-parent-element.md)
-- [record a script](playwright/record-a-script.md)
 
 ### Python
 
