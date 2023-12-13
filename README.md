@@ -61,6 +61,7 @@ Today I Learned
 - [patch mode](git/patch-mode.md)
 - [precommit hooks](git/precommit-hooks.md)
 - [pull merge config](git/pull-merge-config.md)
+- [search through commit contents](git/search-through-commit-contents.md)
 - [squash commits on my branch](git/squash-commits-on-my-branch.md)
 - [stashing files](git/stashing-files.md)
 - [updating and switching to master](git/switching-to-updated-master.md)
