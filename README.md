@@ -148,7 +148,7 @@ Today I Learned
 - [quicklist](vim/quicklist.md)
 - [reload syntax highlighting](vim/reload-sintax-highlighting.md)
 - [repeat last command](vim/repeat-last-command.md)
-- [search through buffers](vim/search-through-buffers.md)
+- [search through arglist](vim/search-through-arglist.md)
 - [search with visual selection](vim/search-with-visual-selection.md)
 - [spell check](vim/spell-check.md)
 - [switch to last buffer](vim/switch-to-last-buffer.md)
