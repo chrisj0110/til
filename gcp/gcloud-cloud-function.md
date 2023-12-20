@@ -9,3 +9,5 @@ gcloud functions deploy $FUNCTION_NAME --gen2 --runtime=python39 --entry-point=m
 
 I also have in my .bashrc so I can do `gcp-deploy-cloud-function FUNCTION_NAME` (after switching to correct GCP project).
 
+NOTE: you need to be in the directory that contains the source code!
+
