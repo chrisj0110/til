@@ -21,3 +21,14 @@ It can also take a range of fields, so this is equivalent:
 ```bash
 | sort -k2,2
 ```
+
+You can change the field separator using `-t`:
+
+```bash
+| sort -t, -k2
+```
+
+You can use general numeric sort using `-g`.
+
+You can reverse it using `-r`.
+
