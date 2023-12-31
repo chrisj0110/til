@@ -79,6 +79,7 @@ Today I Learned
 - [mini-comment](neovim/mini-comment.md)
 - [setup](neovim/setup.md)
 - [toggleterm](neovim/toggleterm.md)
+- [workspaces](neovim/workspaces.md)
 
 ### Playwright
 
