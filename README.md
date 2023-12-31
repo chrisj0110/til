@@ -7,6 +7,7 @@ Today I Learned
 * [GCP](#gcp)
 * [Git](#git)
 * [MySQL](#mysql)
+* [Neovim](#neovim)
 * [Playwright](#playwright)
 * [Python](#python)
 * [REST](#rest)
@@ -70,6 +71,14 @@ Today I Learned
 ### MySQL
 
 - [querying JSON columns](mysql/querying-json-columns.md)
+
+### Neovim
+
+- [dracula](neovim/dracula.md)
+- [lsp-zero](neovim/lsp-zero.md)
+- [mini-comment](neovim/mini-comment.md)
+- [setup](neovim/setup.md)
+- [toggleterm](neovim/toggleterm.md)
 
 ### Playwright
 
