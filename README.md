@@ -75,7 +75,7 @@ Today I Learned
 ### Neovim
 
 - [dracula](neovim/dracula.md)
-- [lsp-zero](neovim/lsp-zero.md)
+- [lspconfig](neovim/lspconfig.md)
 - [mini-comment](neovim/mini-comment.md)
 - [setup](neovim/setup.md)
 - [toggleterm](neovim/toggleterm.md)
