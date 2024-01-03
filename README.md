@@ -97,6 +97,7 @@ Today I Learned
 - [pre-commit dependencies](python/pre-commit-dependencies.md)
 - [pretty print dict](python/pretty-print-dict.md)
 - [pretty print json using python](python/pretty-print-json.md)
+- [pytest durations](python/pytest-durations.md)
 - [requests response.raise_for_status()](python/requests-raise-for-status.md)
 - [rich-cli package](python/rich-cli.md)
 - [ruff config](python/ruff-config.md)
