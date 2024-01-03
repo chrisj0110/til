@@ -158,6 +158,7 @@ Today I Learned
 - [nerdtree plugin](vim/nerdtree.md)
 - [pass a command from the command line](vim/pass-command-from-command-line.md)
 - [quicklist](vim/quicklist.md)
+- [registers](vim/registers.md)
 - [reload syntax highlighting](vim/reload-sintax-highlighting.md)
 - [repeat last command](vim/repeat-last-command.md)
 - [search through arglist](vim/search-through-arglist.md)
