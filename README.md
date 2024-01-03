@@ -29,6 +29,7 @@ Today I Learned
 - [fzf](bash/fzf.md)
 - [fzf and ripgrep](bash/fzf-and-ripgrep.md)
 - [grep without regex](bash/grep-without-regex.md)
+- [grep for one of multiple values](bash/grep-for-one-of-multiple-values.md)
 - [repeat commented command from history](bash/repeat-commented-command.md)
 - [reversing output](bash/reversing-output.md)
 - [setting environment variable for just one command](bash/setting-env-var-for-one-command.md)
