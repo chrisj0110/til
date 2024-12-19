@@ -91,6 +91,7 @@ Today I Learned
 - [pre-commit hooks](git/pre-commit-hooks.md)
 - [pre-commit run all](git/pre-commit-run-all.md)
 - [pull merge config](git/pull-merge-config.md)
+- [remove history](git/remove-history.md)
 - [revert a merge](git/revert-a-merge.md)
 - [search through commit contents](git/search-through-commit-contents.md)
 - [setting upstream on push](git/setting-upstream-on-push.md)
