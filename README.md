@@ -60,6 +60,7 @@ Today I Learned
 
 ### Colorschemes
 
+- [catppuccin ghostty](colorschemes/catppuccin-ghostty.md)
 - [catppuccin slack](colorschemes/catppuccin-slack.md)
 
 ### GCP
