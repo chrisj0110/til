@@ -229,6 +229,7 @@ Today I Learned
 - [jump to area of screen](vim/jump-to-area-of-screen.md)
 - [jump to start and end of visual selection](vim/jump-to-start-and-end-of-visual-selection.md)
 - [jump list](vim/jump-list.md)
+- [language servers](vim/language-servers.md)
 - [lazyvim](vim/lazyvim.md)
 - [linediff plugin](vim/linediff-plugin.md)
 - [mapping types](vim/mapping-types.md)
