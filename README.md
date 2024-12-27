@@ -234,6 +234,7 @@ Today I Learned
 - [mapping types](vim/mapping-types.md)
 - [modify past command](vim/modify-past-command.md)
 - [nerdtree plugin](vim/nerdtree.md)
+- [packer setup](vim/packer-setup.md)
 - [pass a command from the command line](vim/pass-command-from-command-line.md)
 - [paste overwriting unnamed register](vim/paste-overwriting-unnamed-register.md)
 - [quickfix list](vim/quickfix-list.md)
