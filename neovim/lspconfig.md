@@ -8,3 +8,5 @@
 
 `:LspInfo` for more info on the currently-open file.
 
+See [youtube](https://youtu.be/bTWWFQZqzyI?t=221) for more information on LSPs.
+
