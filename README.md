@@ -233,6 +233,7 @@ Today I Learned
 - [lazyvim](vim/lazyvim.md)
 - [linediff plugin](vim/linediff-plugin.md)
 - [mapping types](vim/mapping-types.md)
+- [messages](vim/messages.md)
 - [modify past command](vim/modify-past-command.md)
 - [nerdtree plugin](vim/nerdtree.md)
 - [packer setup](vim/packer-setup.md)
