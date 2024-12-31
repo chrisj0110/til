@@ -24,5 +24,16 @@ Note to self, [dracula color codes](https://github.com/dracula/dracula-theme) ma
 - Red ff5555 => 203
 - Yellow fafa8c => 228
 
-(Dracula pro color codes are in my vimrc.)
+And some [catppuccin color codes](https://catppuccin.com/) map to ansi 256 as follows:
+
+- Green #a6e3a1 => 151
+- Mauve #cba6f7 => 183
+- Peach #fab387 => 216
+- Pink #f5c2e7 => 225
+- Red #f38ba8 => 211
+- Sapphire #74c7ec => 81
+- SkyBlue #89dceb => 116
+- Teal #94e2d5 => 116
+- White #cdd6f4 => 189
+- Yellow #f9e2af => 223
 
