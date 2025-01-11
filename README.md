@@ -111,6 +111,7 @@ Today I Learned
 
 ### Mac
 
+- [asciinema cli to record gifs](mac/asciinema-cli-to-record-gifs.md)
 - [clipboard manager](mac/clipboard-manager.md)
 - [ffmpeg](mac/ffmpeg.md)
 - [resize windows](mac/resize-windows.md)
