@@ -112,7 +112,7 @@ Today I Learned
 ### Mac
 
 - [clipboard manager](mac/clipboard-manager.md)
-- [[ffmpeg](mac/ffmpeg.md)
+- [ffmpeg](mac/ffmpeg.md)
 - [resize windows](mac/resize-windows.md)
 - [switching apps](mac/switching-apps.md)
 - [warp terminal](mac/warp-terminal.md)
