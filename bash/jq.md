@@ -17,3 +17,9 @@ to get all values of `fieldname` anywhere in the doc:
 jq '.. | .fieldname? // empty' file.json
 ```
 
+to get all values of `fieldname` that happens in a list from the root:
+
+```bash
+jq '.[].fieldname' file.json
+```
+
