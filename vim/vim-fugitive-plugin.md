@@ -25,8 +25,13 @@ https://github.com/tpope/vim-fugitive
 
 - `:G blame` - git blame
     - `<CR>` on the commit to see the change. `<ctrl-o>` to go back.
+    - `o` on the commit to open the change in a horizontal split.
+    - `O` on the commit to open the change in a new tab.
+    - `g?` for help / more commands.
+    - `-` to reblame.
 
 - `:G push` - git push
 
 - `:Gedit branchname:file.txt` - open file.txt from branchname
 
+- `:GBrowse <object>` to open a commit/etc in the browser
