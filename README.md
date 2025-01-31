@@ -19,6 +19,7 @@ Today I Learned
 * [Salesforce](#salesforce)
 * [Selenium](#selenium)
 * [Splunk](#splunk)
+* [Sqlite](#sqlite)
 * [Tmux](#tmux)
 * [Vim](#vim)
 * [VSCode](#vscode)
@@ -200,6 +201,11 @@ Today I Learned
 - [null and coalesce](splunk/null-and-coalesce.md)
 - [searching same time period last week](splunk/same-time-last-week.md)
 - [subsearches](splunk/subsearches.md)
+
+### Sqlite
+
+- [column headers](sqlite/column-headers.md)
+- [table definition](sqlite/table-definition.md)
 
 ### Tmux
 
