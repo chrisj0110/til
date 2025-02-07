@@ -52,6 +52,7 @@ Today I Learned
 - [show terminal colors](bash/show-terminal-colors.md)
 - [sorting output](bash/sorting-output.md)
 - [tee](bash/tee.md)
+- [time commands in zsh](bash/time-commands-in-zsh.md)
 - [using sed to just print a certain line of output](bash/sed-print-nth-line.md)
 - [using sed to replace all matching text](bash/sed-replace-all-text.md)
 - [using tr to modify text](bash/tr-to-modify-text.md)
