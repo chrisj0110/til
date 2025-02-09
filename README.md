@@ -83,6 +83,7 @@ Today I Learned
 - [config](git/config.md)
 - [creating branch from point in time on master](git/creating-branch-from-point-in-time-on-master.md)
 - [creating pull request in browser](git/creating-pull-request-in-browser.md)
+- [debug branches](git/debug-branches.md)
 - [diff between two branches](git/diff-branches.md)
 - [finding the root folder of the repo](git/finding-the-root-folder.md)
 - [github cloning personal repo](git/clone-personal-github-repo.md)
