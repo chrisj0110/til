@@ -243,6 +243,7 @@ Today I Learned
 - [mapping types](vim/mapping-types.md)
 - [messages](vim/messages.md)
 - [modify past command](vim/modify-past-command.md)
+- [modify quickfix results](vim/modify-quickfix-results.md)
 - [nerdtree plugin](vim/nerdtree.md)
 - [packer setup](vim/packer-setup.md)
 - [pass a command from the command line](vim/pass-command-from-command-line.md)
