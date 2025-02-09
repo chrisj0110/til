@@ -229,6 +229,7 @@ Today I Learned
 - [dracula colorscheme](vim/dracula-colorscheme.md)
 - [finding and opening file](vim/finding-and-opening-file.md)
 - [folding](vim/folding.md)
+- [format current json buffer](vim/format-current-json-buffer.md)
 - [git blame through history](vim/git-blame-through-history.md)
 - [grep](vim/grep.md)
 - [incrementing numbers](vim/incrementing-numbers.md)
