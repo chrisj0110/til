@@ -77,6 +77,7 @@ Today I Learned
 ### Git
 
 - [blame around specific lines](git/blame-around-specific-lines.md)
+- [git bisect](git/bisect.md)
 - [checkout file from branch](git/checkout-file-from-branch.md)
 - [cherry picking multiple commits](git/cherry-picking-multiple-commits.md)
 - [cloning huge repo](git/cloning-huge-repo.md)
