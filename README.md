@@ -245,6 +245,7 @@ Today I Learned
 - [linediff plugin](vim/linediff-plugin.md)
 - [mapping types](vim/mapping-types.md)
 - [messages](vim/messages.md)
+- [modify all matching lines](vim/modify-all-matching-lines.md)
 - [modify past command](vim/modify-past-command.md)
 - [modify quickfix results](vim/modify-quickfix-results.md)
 - [nerdtree plugin](vim/nerdtree.md)
