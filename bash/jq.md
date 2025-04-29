@@ -23,3 +23,5 @@ to get all values of `fieldname` that happens in a list from the root:
 jq '.[].fieldname' file.json
 ```
 
+use `jq -r` to remove quotes from values
+
