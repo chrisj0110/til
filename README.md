@@ -263,7 +263,6 @@ Today I Learned
 - [silent to suppress output](vim/silent-to-suppress-output.md)
 - [spell check](vim/spell-check.md)
 - [switch to last buffer](vim/switch-to-last-buffer.md)
-- [update text in quickfix list](vim/update-text-in-quickfix-list.md)
 - [vim-airline plugin](vim/vim-airline-plugin.md)
 - [vim-fugitive plugin](vim/vim-fugitive-plugin.md)
 - [vim-surround plugin](vim/vim-surround-plugin.md)
