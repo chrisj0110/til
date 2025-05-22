@@ -4,3 +4,5 @@ How to setup fzf, fzf.vim, and ripgrep, and ideas on how to use them together, [
 
 `rg -uu` to include hidden files and directories.
 
+`rg -g ".rs"` to search for just `.rs` files.
+
