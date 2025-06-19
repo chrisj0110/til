@@ -12,3 +12,9 @@ Or relative:
 git log --since="3 weeks ago" --grep "some text"
 ```
 
+Can also look for date ranges:
+
+```bash
+git log --after="2024-03-19" --until="2024-03-20" --grep "some text"
+```
+
