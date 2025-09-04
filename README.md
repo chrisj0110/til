@@ -179,8 +179,9 @@ Today I Learned
 
 - [common functions](rust/common-functions.md)
 - [display vs debug trait for output](rust/display-vs-debug-trait.md)
-- [overriding dependencies](rust/overriding-dependencies.md)
+- [faster builds on mac](rust/faster-builds-on-mac.md)
 - [iter ownership](rust/iter-ownership.md)
+- [overriding dependencies](rust/overriding-dependencies.md)
 
 ### Salesforce
 
