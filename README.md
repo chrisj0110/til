@@ -95,6 +95,7 @@ Today I Learned
 - [patch mode](git/patch-mode.md)
 - [pre-commit hooks](git/pre-commit-hooks.md)
 - [pre-commit run all](git/pre-commit-run-all.md)
+- [pull in changes from another branch](git/pull-in-changes-from-another-branch.md)
 - [pull merge config](git/pull-merge-config.md)
 - [remove history](git/remove-history.md)
 - [revert a merge](git/revert-a-merge.md)
