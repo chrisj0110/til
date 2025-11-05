@@ -5,6 +5,7 @@ Today I Learned
 
 * [AWS](#aws)
 * [Bash](#bash)
+* [Bazel](#bazel)
 * [Colorschemes](#colorschemes)
 * [GCP](#gcp)
 * [Git](#git)
@@ -59,6 +60,10 @@ Today I Learned
 - [watch command](bash/watch-command.md)
 - [xargs](bash/xargs.md)
 - [yq](bash/yq.md)
+
+### Bazel
+
+- [debugging rust unit tests](bazel/debugging-rust-unit-tests.md)
 
 ### Colorschemes
 
