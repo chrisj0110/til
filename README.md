@@ -187,6 +187,7 @@ Today I Learned
 - [display vs debug trait for output](rust/display-vs-debug-trait.md)
 - [faster builds on mac](rust/faster-builds-on-mac.md)
 - [iter ownership](rust/iter-ownership.md)
+- [output variable type](rust/output-variable-type.md)
 - [overriding dependencies](rust/overriding-dependencies.md)
 
 ### Salesforce
