@@ -28,7 +28,7 @@ https://github.com/tpope/vim-fugitive
     - `o` on the commit to open the change in a horizontal split.
     - `O` on the commit to open the change in a new tab.
     - `g?` for help / more commands.
-    - `-` to reblame.
+    - `~` to reblame.
 
 - `:G push` - git push
 
