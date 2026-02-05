@@ -224,6 +224,7 @@ Today I Learned
 - [detach and reattach](tmux/detach-and-reattach.md)
 - [icon height issue](tmux/icon-height-issue.md)
 - [join and split panes](tmux/join-and-split-panes.md)
+- [reorder windows](tmux/reorder-windows.md)
 - [send command to another pane](tmux/send-command-to-another-pane.md)
 
 ### Vim
