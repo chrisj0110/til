@@ -45,6 +45,7 @@ Today I Learned
 - [grep without regex](bash/grep-without-regex.md)
 - [grep for one of multiple values](bash/grep-for-one-of-multiple-values.md)
 - [jq](bash/jq.md)
+- [looping](bash/looping.md)
 - [overwriting a file](bash/overwriting-a-file.md)
 - [remove newline from copied value](bash/remove-newline-from-copied-value.md)
 - [repeat commented command from history](bash/repeat-commented-command.md)
