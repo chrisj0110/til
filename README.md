@@ -103,6 +103,7 @@ Today I Learned
 - [pre-commit run all](git/pre-commit-run-all.md)
 - [pull in changes from another branch](git/pull-in-changes-from-another-branch.md)
 - [pull merge config](git/pull-merge-config.md)
+- [reset](git/reset.md)
 - [remove history](git/remove-history.md)
 - [revert a merge](git/revert-a-merge.md)
 - [search through commit contents](git/search-through-commit-contents.md)
