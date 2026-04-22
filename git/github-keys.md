@@ -38,3 +38,20 @@ Navigate to https://github.com/settings/keys and add a new SSH key. Reference th
 
 Above initially came from https://kinsta.com/blog/generate-ssh-key/
 
+===
+
+NOTE: if authenticating with for example a work account and personal accounts stop working, you may need to add section to ~/.ssh/config with content like this:
+
+```
+Host github-personal
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_ed25519
+  IdentitiesOnly yes
+```
+
+Then in any affected repo, do:
+
+```bash
+git remote set-url origin git@github-personal:chrisj0110/repo-name.git
+```
